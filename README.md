@@ -66,7 +66,6 @@ Tüm analizler Python dilinde Jupyter Notebook ortamında gerçekleştirilmişti
 
 ## 📁 Çıktılar
 
-- [Analiz Raporu (PDF)](./airline_satisfaction_report_clean.pdf)
 - Jupyter Notebook: `final_task.ipynb`
 
 ---
